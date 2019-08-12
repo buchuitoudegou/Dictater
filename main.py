@@ -1,16 +1,13 @@
-from FileReader import extract_words
-import argparse
+from FileReader import extract_words, root_path
+import os
+from tqdm import tqdm
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--dictionary', required=False, default='synonym0',  help='select a dictionary to dictate')
-
-args = parser.parse_args()
 
 def dictate(dictionary):
   total = len(dictionary)
   wrong = {}
   correct = 0
-  for word in dictionary:
+  for word in tqdm(dictionary):
     print(f'current word: {word}')
     reference = dictionary[word]
     answer = input('answer: ')
@@ -31,6 +28,10 @@ def dictate(dictionary):
   }
 
 if __name__ == "__main__":
-  dictionary = extract_words(args.dictionary)
+  dicts = os.listdir(root_path)
+  for i in range(len(dicts)):
+    print(f'{i}: {dicts[i]}')
+  choice = input('select your dictionary (input the number): ')
+  dictionary = extract_words(dicts[i])
   result = dictate(dictionary)
   print(result) 
