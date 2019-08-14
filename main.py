@@ -42,6 +42,6 @@ if __name__ == "__main__":
   for i in range(len(dicts)):
     print(f'{i}: {dicts[i]}')
   choice = input('select your dictionary (input the number): ')
-  dictionary = extract_words(dicts[i])
+  dictionary = extract_words(dicts[int(choice)])
   result = dictate(dictionary)
   display_result(result)
