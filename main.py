@@ -2,13 +2,22 @@ from FileReader import extract_words, root_path
 import os
 from tqdm import tqdm
 
+def display_result(result):
+  print(f'correct rate: [{result["correct num"]}/{result["total"]}]')
+  if len(result["wrong words"]) == 0:
+    print("Congratulation!")
+  print('wrong words: ')
+  for word in result["wrong words"]:
+    print(f"{word}: {result['wrong words'][word]}")
 
 def dictate(dictionary):
   total = len(dictionary)
   wrong = {}
   correct = 0
-  for word in tqdm(dictionary):
-    print(f'current word: {word}')
+  idx = 0
+  for word in dictionary:
+    idx += 1
+    print(f'[{idx}/{total}]current word: {word}')
     reference = dictionary[word]
     answer = input('answer: ')
     answer = answer.split(',')
@@ -34,4 +43,4 @@ if __name__ == "__main__":
   choice = input('select your dictionary (input the number): ')
   dictionary = extract_words(dicts[i])
   result = dictate(dictionary)
-  print(result) 
+  display_result(result)
