@@ -6,6 +6,7 @@ def display_result(result):
   print(f'correct rate: [{result["correct num"]}/{result["total"]}]')
   if len(result["wrong words"]) == 0:
     print("Congratulation!")
+    return
   print('wrong words: ')
   for word in result["wrong words"]:
     print(f"{word}: {result['wrong words'][word]}")
