@@ -4,7 +4,7 @@ a project used for dictation
 ## run
 place your dictionary in the `vocabulary` directory.
 ```
-python3 main.py --dictionary [name of the dictionary]
+python3 dictate_v1/main.py --dictionary [name of the dictionary]
 ```
 
 ## changelog

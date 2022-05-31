@@ -1,0 +1,728 @@
+[
+    {
+        "semantic": "精明;策略",
+        "noun": [
+            "tactic"
+        ],
+        "adj": [
+            "politic",
+            "astute",
+            "calculated"
+        ]
+    },
+    {
+        "semantic": "敏锐的",
+        "noun": [],
+        "adj": [
+            "observant",
+            "acute"
+        ]
+    },
+    {
+        "semantic": "抑制;阻止;阻碍",
+        "verb": [
+            "contain",
+            "stem",
+            "arrest",
+            "thwart",
+            "deter",
+            "hinder",
+            "forestall",
+            "check",
+            "impede",
+            "stymie",
+            "hamper"
+        ]
+    },
+    {
+        "semantic": "新颖",
+        "adj": [
+            "novel",
+            "ingenious"
+        ]
+    },
+    {
+        "semantic": "镇静;沉着;理智",
+        "adj": [
+            "composed",
+            "collected",
+            "cerebral"
+        ]
+    },
+    {
+        "semantic": "残余;剩下部分;多余",
+        "noun": [
+            "remnant"
+        ],
+        "adj": [
+            "redundant",
+            "superfluous",
+            "residual"
+        ]
+    },
+    {
+        "semantic": "复杂难懂;难理解",
+        "adj": [
+            "involved",
+            "profound",
+            "opaque",
+            "esoteric",
+            "impenetrable",
+            "arcane",
+            "abstruse",
+            "elusive",
+            "obscure"
+        ]
+    },
+    {
+        "semantic": "深刻",
+        "adj": [
+            "profound"
+        ]
+    },
+    {
+        "semantic": "矛盾",
+        "noun": [
+            "paradox",
+            "dichotomy"
+        ],
+        "adj": [
+            "ambivalent"
+        ]
+    },
+    {
+        "semantic": "破坏;消灭;废除",
+        "verb": [
+            "undermine",
+            "mar",
+            "subvert",
+            "eradicate",
+            "vanish",
+            "devastate",
+            "abolish"
+        ]
+    },
+    {
+        "semantic": "开发;利用;使用",
+        "verb": [
+            "exploit",
+            "exert"
+        ]
+    },
+    {
+        "semantic": "限制",
+        "verb": [
+            "confine",
+            "curtail",
+            "circumscribe",
+            "constrain"
+        ]
+    },
+    {
+        "semantic": "增加;上涨",
+        "verb": [
+            "mount",
+            "boom",
+            "proliferate",
+            "balloon"
+        ]
+    },
+    {
+        "semantic": "解决",
+        "verb": [
+            "resolve"
+        ]
+    },
+    {
+        "semantic": "加剧;恶化",
+        "verb": [
+            "compound",
+            "exacerbate"
+        ]
+    },
+    {
+        "semantic": "超越",
+        "verb": [
+            "transcend",
+            "outstrip"
+        ]
+    },
+    {
+        "semantic": "杰出",
+        "adj": [
+            "prominent",
+            "extraodinary"
+        ]
+    },
+    {
+        "semantic": "显著;明显",
+        "adj": [
+            "prominent",
+            "conspicuous",
+            "salient",
+            "manifest",
+            "overt",
+            "telling",
+            "pronounced"
+        ]
+    },
+    {
+        "semantic": "合理",
+        "adj": [
+            "plausible",
+            "feasible"
+        ]
+    },
+    {
+        "semantic": "不明确",
+        "adj": [
+            "vague"
+        ]
+    },
+    {
+        "semantic": "相当多;丰富;充足",
+        "adj": [
+            "considerable",
+            "abound",
+            "plentitude",
+            "ample",
+            "prolific"
+        ]
+    },
+    {
+        "semantic": "致使;引起",
+        "verb": [
+            "render",
+            "precipitate",
+            "induce",
+            "elicit",
+            "engender",
+            "incur"
+        ]
+    },
+    {
+        "semantic": "小心;机警;谨慎",
+        "adj": [
+            "wary",
+            "measured",
+            "circumspect",
+            "viglant"
+        ]
+    },
+    {
+        "semantic": "促进;加快;发展",
+        "verb": [
+            "precipitate",
+            "folster",
+            "nourish",
+            "hasten",
+            "instigate",
+            "spur",
+            "bloom"
+        ]
+    },
+    {
+        "semantic": "匆忙",
+        "adj": [
+            "precipitate"
+        ]
+    },
+    {
+        "semantic": "隐藏",
+        "verb": [
+            "conceal"
+        ]
+    },
+    {
+        "semantic": "掩饰",
+        "verb": [
+            "belie",
+            "veil",
+            "disguise",
+            "camouflage"
+        ]
+    },
+    {
+        "semantic": "充满",
+        "verb": [
+            "abound",
+            "saturate"
+        ]
+    },
+    {
+        "semantic": "减少;削弱;退化",
+        "verb": [
+            "deplete",
+            "curtail",
+            "abate",
+            "vitiate",
+            "depress",
+            "degenerate",
+            "undermine",
+            "enervate"
+        ]
+    },
+    {
+        "semantic": "加强",
+        "verb": [
+            "buttress",
+            "consolidate"
+        ]
+    },
+    {
+        "semantic": "诱导",
+        "verb": [
+            "induce"
+        ]
+    },
+    {
+        "semantic": "否定;反驳",
+        "verb": [
+            "repudidate",
+            "contradict",
+            "refute",
+            "veto",
+            "counter"
+        ]
+    },
+    {
+        "semantic": "合适;适当",
+        "adj": [
+            "meet",
+            "decent"
+        ],
+        "noun": [
+            "propriety"
+        ]
+    },
+    {
+        "semantic": "推断",
+        "verb": [
+            "deduce"
+        ]
+    },
+    {
+        "semantic": "颠覆",
+        "verb": [
+            "subvert",
+            "overthrow",
+            "topple"
+        ]
+    },
+    {
+        "semantic": "过时;陈腐",
+        "adj": [
+            "dated",
+            "derivative",
+            "banal",
+            "anachronistic",
+            "obsolete"
+        ]
+    },
+    {
+        "semantic": "冷漠",
+        "adj": [
+            "indifferent",
+            "disinterested"
+        ],
+        "noun": [
+            "apathy"
+        ]
+    },
+    {
+        "semantic": "怨恨",
+        "noun": [
+            "spite"
+        ],
+        "verb": [
+            "resent"
+        ]
+    },
+    {
+        "semantic": "摇摆",
+        "verb": [
+            "osciliate"
+        ]
+    },
+    {
+        "semantic": "必然",
+        "adj": [
+            "inevitable"
+        ]
+    },
+    {
+        "semantic": "回避",
+        "adj": [
+            "elusive"
+        ],
+        "verb": [
+            "eschew",
+            "circumvent"
+        ]
+    },
+    {
+        "semantic": "小",
+        "adj": [
+            "minute"
+        ]
+    },
+    {
+        "semantic": "分离;分散",
+        "verb": [
+            "segregate",
+            "split",
+            "disperse",
+            "dispel",
+            "dissipate"
+        ],
+        "adj": [
+            "diffuse"
+        ]
+    },
+    {
+        "semantic": "危险",
+        "adj": [
+            "preilous",
+            "precarious"
+        ]
+    },
+    {
+        "semantic": "顽强;坚韧",
+        "adj": [
+            "hardy",
+            "tenacious",
+            "resilient"
+        ]
+    },
+    {
+        "semantic": "培育",
+        "verb": "folster"
+    },
+    {
+        "semantic": "模仿;伪造;虚伪;假装",
+        "verb": [
+            "echo",
+            "emulate",
+            "forge",
+            "camouflage",
+            "feign",
+            "mimic"
+        ],
+        "adj": [
+            "disingenuous",
+            "specious",
+            "spurious"
+        ]
+    },
+    {
+        "semantic": "强烈;严重",
+        "adj": [
+            "acute",
+            "fierce"
+        ],
+        "noun": [
+            "severity"
+        ]
+    },
+    {
+        "semantic": "恳求",
+        "adj": [
+            "suppliant"
+        ]
+    },
+    {
+        "semantic": "朴素",
+        "adj": [
+            "austere"
+        ]
+    },
+    {
+        "semantic": "缺少",
+        "adj": [
+            "meager",
+            "scant"
+        ],
+        "noun": [
+            "dearth",
+            "paucity"
+        ]
+    },
+    {
+        "semantic": "尘世;俗世;普通",
+        "adj": [
+            "mundane",
+            "mediocre",
+            "earthly",
+            "pedestrain",
+            "demotic"
+        ]
+    },
+    {
+        "semantic": "原始",
+        "adj": [
+            "pristine"
+        ]
+    },
+    {
+        "semantic": "善变;多变",
+        "adj": [
+            "capricious",
+            "mercurial",
+            "volatile"
+        ]
+    },
+    {
+        "semantic": "影响",
+        "verb": [
+            "impinge"
+        ],
+        "noun": [
+            "ramification"
+        ]
+    },
+    {
+        "semantic": "改善",
+        "verb": [
+            "refine"
+        ]
+    },
+    {
+        "semantic": "友善",
+        "adj": [
+            "benign"
+        ]
+    },
+    {
+        "semantic": "可疑",
+        "adj": [
+            "dubious"
+        ]
+    },
+    {
+        "semantic": "枯燥;冗长",
+        "adj": [
+            "tedious",
+            "verbose",
+            "diffuse",
+            "prolix"
+        ]
+    },
+    {
+        "semantic": "谴责",
+        "verb": [
+            "censure",
+            "condemn",
+            "assail"
+        ]
+    },
+    {
+        "semantic": "放弃;抛弃",
+        "verb": [
+            "discard",
+            "relinquish",
+            "forgo",
+            "jettison"
+        ]
+    },
+    {
+        "semantic": "蔑视;鄙视;轻视",
+        "verb": [
+            "distain",
+            "disparage",
+            "score"
+        ]
+    },
+    {
+        "semantic": "获得",
+        "verb": [
+            "secure"
+        ]
+    },
+    {
+        "semantic": "恭敬",
+        "adj": [
+            "deferential",
+            "submissive",
+            "reverent"
+        ]
+    },
+    {
+        "semantic": "有用;有益;有帮助",
+        "adj": [
+            "salutary",
+            "instrumental",
+            "efficacious",
+            "conducive"
+        ]
+    },
+    {
+        "semantic": "神秘",
+        "adj": [
+            "arcane",
+            "enigmatic"
+        ]
+    },
+    {
+        "semantic": "有害",
+        "adj": [
+            "deleterious",
+            "inimical",
+            "detrimental"
+        ]
+    },
+    {
+        "semantic": "敌意",
+        "adj": [
+            "hostile"
+        ]
+    },
+    {
+        "semantic": "认真;一丝不苟",
+        "adj": [
+            "meticulous",
+            "conscientious"
+        ]
+    },
+    {
+        "semantic": "想象",
+        "verb": [
+            "envision",
+            "conjure"
+        ]
+    },
+    {
+        "semantic": "热情洋溢",
+        "adj": [
+            "exuberant"
+        ]
+    },
+    {
+        "semantic": "懒惰;缺乏活力",
+        "adj": [
+            "inert",
+            "torpid"
+        ]
+    },
+    {
+        "semantic": "表扬;赞美",
+        "verb": [
+            "exalt"
+        ],
+        "noun": [
+            "approbation"
+        ]
+    },
+    {
+        "semantic": "沉默寡言",
+        "adj": [
+            "reticent"
+        ]
+    },
+    {
+        "semantic": "桀骜不驯;反叛",
+        "adj": [
+            "recalcitrant",
+            "defiant",
+            "refactory",
+            "rebellious"
+        ]
+    },
+    {
+        "semantic": "炫耀;做作",
+        "adj": [
+            "pretentious",
+            "theatrical"
+        ]
+    },
+    {
+        "semantic": "潦草;敷衍;粗略",
+        "adj": [
+            "perfunctory"
+        ]
+    },
+    {
+        "semantic": "喜爱",
+        "noun": [
+            "affinity"
+        ]
+    },
+    {
+        "semantic": "宣传;煽动",
+        "verb": [
+            "instigate",
+            "propagate"
+        ]
+    },
+    {
+        "semantic": "徒劳",
+        "adj": [
+            "vain"
+        ]
+    },
+    {
+        "semantic": "短暂",
+        "adj": [
+            "transitory",
+            "evanescent"
+        ]
+    },
+    {
+        "semantic": "公正",
+        "adj": [
+            "impartial"
+        ]
+    },
+    {
+        "semantic": "难处理;棘手",
+        "adj": [
+            "intractable"
+        ]
+    },
+    {
+        "semantic": "不变;永恒",
+        "adj": [
+            "immutable",
+            "eternal"
+        ]
+    },
+    {
+        "semantic": "吹嘘;吹捧",
+        "noun": [
+            "adulation"
+        ],
+        "verb": [
+            "tout"
+        ]
+    },
+    {
+        "semantic": "挑剔",
+        "adj": [
+            "fastidious"
+        ]
+    },
+    {
+        "semantic": "损害",
+        "verb": [
+            "jeopardize"
+        ]
+    },
+    {
+        "semantic": "无私;仁慈;慈善",
+        "adj": [
+            "altruistic",
+            "benevolent"
+        ]
+    },
+    {
+        "semantic": "吉利;有望成功",
+        "adj": [
+            "auspicious"
+        ]
+    },
+    {
+        "semantic": "诋毁",
+        "verb": [
+            "denigrate"
+        ]
+    }
+]

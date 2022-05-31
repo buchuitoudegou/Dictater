@@ -1,4 +1,4 @@
-from FileReader import extract_words, root_path
+from dictate_v1.FileReader import extract_words, root_path
 import os
 from tqdm import tqdm
 
