@@ -3,7 +3,8 @@
         "semantic": "精明;策略;聪明",
         "noun": [
             "tactic",
-            "acumen"
+            "acumen",
+            "finesse"
         ],
         "adj": [
             "politic",
@@ -12,7 +13,10 @@
             "resourceful",
             "shrewd",
             "diplomatic",
-            "sagacious"
+            "sagacious",
+            "savvy",
+            "adroit",
+            "cunning"
         ]
     },
     {
@@ -41,7 +45,11 @@
             "subdue",
             "preempt",
             "dampen",
-            "retard"
+            "retard",
+            "detain",
+            "encumber",
+            "handicap",
+            "hedge"
         ]
     },
     {
@@ -52,17 +60,22 @@
         ]
     },
     {
-        "semantic": "镇静;沉着;理智",
+        "semantic": "镇静;沉着;理智;冷静",
         "adj": [
             "composed",
             "collected",
-            "cerebral"
+            "cerebral",
+            "phlematic"
+        ],
+        "noun": [
+            "aplomb"
         ]
     },
     {
         "semantic": "残余;剩下部分;多余",
         "noun": [
-            "remnant"
+            "remnant",
+            "glut"
         ],
         "adj": [
             "redundant",
@@ -84,7 +97,14 @@
             "obscure",
             "unfathomable",
             "uncanny",
-            "criptic"
+            "criptic",
+            "recondite",
+            "elliptical",
+            "inscrutable",
+            "murky"
+        ],
+        "verb": [
+            "obfuscate"
         ]
     },
     {
@@ -105,7 +125,7 @@
         ]
     },
     {
-        "semantic": "破坏;消灭;废除",
+        "semantic": "破坏;消灭;废除;毁灭",
         "verb": [
             "undermine",
             "mar",
@@ -114,7 +134,16 @@
             "vanish",
             "devastate",
             "abolish",
-            "decimate"
+            "decimate",
+            "permish",
+            "subotage",
+            "annihilate",
+            "spoil",
+            "abrogate",
+            "annul",
+            "exterminate",
+            "extirpate",
+            "obliterate"
         ]
     },
     {
@@ -122,7 +151,8 @@
         "verb": [
             "exploit",
             "exert",
-            "harness"
+            "harness",
+            "bestow"
         ]
     },
     {
@@ -131,7 +161,8 @@
             "confine",
             "curtail",
             "circumscribe",
-            "constrain"
+            "constrain",
+            "curb"
         ]
     },
     {
@@ -140,7 +171,8 @@
             "mount",
             "boom",
             "proliferate",
-            "balloon"
+            "balloon",
+            "spurt"
         ]
     },
     {
@@ -154,7 +186,8 @@
         "verb": [
             "compound",
             "exacerbate",
-            "escalate"
+            "escalate",
+            "aggravate"
         ]
     },
     {
@@ -171,7 +204,8 @@
             "extraodinary",
             "preeminent",
             "sterling",
-            "eminent"
+            "eminent",
+            "illustrious"
         ]
     },
     {
@@ -183,7 +217,8 @@
             "manifest",
             "overt",
             "telling",
-            "pronounced"
+            "pronounced",
+            "palpable"
         ]
     },
     {
@@ -200,7 +235,7 @@
         ]
     },
     {
-        "semantic": "相当多;丰富;充足",
+        "semantic": "相当多;丰富;充足;大量",
         "adj": [
             "considerable",
             "abound",
@@ -209,7 +244,16 @@
             "prolific",
             "plethora",
             "copious",
-            "cascade"
+            "cascade",
+            "surfeit",
+            "affulent",
+            "deluge",
+            "myriad",
+            "opulent",
+            "profuse"
+        ],
+        "noun": [
+            "spate"
         ]
     },
     {
@@ -222,7 +266,8 @@
             "engender",
             "incur",
             "spark",
-            "stir"
+            "stir",
+            "beget"
         ]
     },
     {
@@ -231,7 +276,12 @@
             "wary",
             "measured",
             "circumspect",
-            "viglant"
+            "viglant",
+            "discreet",
+            "tactful"
+        ],
+        "noun": [
+            "discreption"
         ]
     },
     {
@@ -244,7 +294,10 @@
             "instigate",
             "spur",
             "bloom",
-            "hone"
+            "hone",
+            "catalyze",
+            "expedite",
+            "burgeon"
         ]
     },
     {
@@ -260,12 +313,13 @@
         ]
     },
     {
-        "semantic": "掩饰",
+        "semantic": "掩饰;掩盖",
         "verb": [
             "belie",
             "veil",
             "disguise",
-            "camouflage"
+            "camouflage",
+            "cloak"
         ]
     },
     {
@@ -274,7 +328,12 @@
             "abound",
             "saturate",
             "teem",
-            "imbue"
+            "imbue",
+            "replete",
+            "replenish"
+        ],
+        "adj": [
+            "fraught"
         ]
     },
     {
@@ -292,7 +351,21 @@
             "undercut",
             "mute",
             "falter",
-            "dwindle"
+            "dwindle",
+            "prune",
+            "wane",
+            "descent",
+            "ebb",
+            "fade",
+            "flag",
+            "subside",
+            "retrograde",
+            "slump",
+            "abridge",
+            "attenuate"
+        ],
+        "noun": [
+            "atrophy"
         ]
     },
     {
@@ -303,27 +376,36 @@
         ]
     },
     {
-        "semantic": "诱导;引诱",
+        "semantic": "诱导;引诱;诱惑",
         "verb": [
             "induce",
-            "allure"
+            "allure",
+            "entice"
         ]
     },
     {
-        "semantic": "否定;反驳",
+        "semantic": "否定;反驳;反对",
         "verb": [
             "repudidate",
             "contradict",
             "refute",
             "veto",
-            "counter"
+            "counter",
+            "demur",
+            "deprecate",
+            "disavow",
+            "frown"
         ]
     },
     {
         "semantic": "合适;适当",
         "adj": [
             "meet",
-            "decent"
+            "decent",
+            "felicitous",
+            "apposite",
+            "germane",
+            "opportune"
         ],
         "noun": [
             "propriety"
@@ -332,7 +414,8 @@
     {
         "semantic": "推断",
         "verb": [
-            "deduce"
+            "deduce",
+            "extrapolate"
         ]
     },
     {
@@ -355,28 +438,45 @@
             "hackneyed",
             "hidebound",
             "tribute",
-            "pedantic"
+            "pedantic",
+            "erstwhile",
+            "antediluvian"
         ]
     },
     {
-        "semantic": "冷漠",
+        "semantic": "冷漠;冷淡",
         "adj": [
             "indifferent",
-            "disinterested"
+            "disinterested",
+            "tepid",
+            "aloof",
+            "insouciance",
+            "callous"
         ],
         "noun": [
             "apathy"
         ]
     },
     {
-        "semantic": "怨恨",
+        "semantic": "怨恨;憎恶;讨厌",
         "noun": [
             "spite",
             "venom",
-            "hatred"
+            "hatred",
+            "anathema",
+            "grudge"
         ],
         "verb": [
-            "resent"
+            "resent",
+            "detest"
+        ],
+        "adj": [
+            "repugnant",
+            "objectionable",
+            "odious",
+            "noxious",
+            "malicious",
+            "malevolent"
         ]
     },
     {
@@ -402,7 +502,8 @@
             "eschew",
             "circumvent",
             "shun",
-            "bypass"
+            "bypass",
+            "abjure"
         ]
     },
     {
@@ -410,7 +511,9 @@
         "adj": [
             "minute",
             "modicum",
-            "minuscule"
+            "minuscule",
+            "diminutive",
+            "infinitesimal"
         ]
     },
     {
@@ -425,6 +528,9 @@
         ],
         "adj": [
             "diffuse"
+        ],
+        "noun": [
+            "schism"
         ]
     },
     {
@@ -458,16 +564,25 @@
             "forge",
             "camouflage",
             "feign",
-            "mimic"
+            "mimic",
+            "dissemble"
         ],
         "adj": [
             "disingenuous",
             "specious",
             "spurious",
-            "apocryphal"
+            "apocryphal",
+            "bogus",
+            "fictitious",
+            "gild"
         ],
         "noun": [
-            "hypocrisy"
+            "hypocrisy",
+            "facade",
+            "parody",
+            "sham",
+            "counterfeit",
+            "pretense"
         ]
     },
     {
@@ -475,7 +590,8 @@
         "adj": [
             "acute",
             "fierce",
-            "precipitous"
+            "precipitous",
+            "dire"
         ],
         "noun": [
             "severity"
@@ -490,14 +606,16 @@
     {
         "semantic": "朴素",
         "adj": [
-            "austere"
+            "austere",
+            "sober"
         ]
     },
     {
         "semantic": "缺少",
         "adj": [
             "meager",
-            "scant"
+            "scant",
+            "exiguous"
         ],
         "noun": [
             "dearth",
@@ -511,7 +629,8 @@
             "mediocre",
             "earthly",
             "pedestrain",
-            "demotic"
+            "demotic",
+            "worldly"
         ]
     },
     {
@@ -525,7 +644,9 @@
         "adj": [
             "capricious",
             "mercurial",
-            "volatile"
+            "volatile",
+            "protean",
+            "fickle"
         ]
     },
     {
@@ -544,10 +665,13 @@
         ]
     },
     {
-        "semantic": "友善",
+        "semantic": "友善;友好",
         "adj": [
             "benign",
-            "congenial"
+            "congenial",
+            "cordial",
+            "convivial",
+            "genial"
         ]
     },
     {
@@ -557,7 +681,7 @@
         ]
     },
     {
-        "semantic": "枯燥;冗长",
+        "semantic": "枯燥;冗长;",
         "adj": [
             "tedious",
             "verbose",
@@ -567,7 +691,11 @@
             "vapid",
             "jejune",
             "monotonous",
-            "drab"
+            "drab",
+            "rambling",
+            "dull",
+            "interminable",
+            "prosaic"
         ]
     },
     {
@@ -578,7 +706,20 @@
             "assail",
             "impugn",
             "rail",
-            "rebuke"
+            "rebuke",
+            "berate",
+            "excoriate",
+            "reproach",
+            "castigate",
+            "chastise",
+            "denounce"
+        ],
+        "noun": [
+            "opprobrium"
+        ],
+        "adj": [
+            "reprehensible",
+            "culpable"
         ]
     },
     {
@@ -587,7 +728,10 @@
             "discard",
             "relinquish",
             "forgo",
-            "jettison"
+            "jettison",
+            "abjure",
+            "forsake",
+            "cede"
         ]
     },
     {
@@ -596,7 +740,8 @@
             "distain",
             "disparage",
             "scorn",
-            "deride"
+            "deride",
+            "tease"
         ],
         "noun": [
             "spoof"
@@ -610,11 +755,13 @@
         ]
     },
     {
-        "semantic": "恭敬",
+        "semantic": "恭敬;尊敬",
         "adj": [
             "deferential",
             "submissive",
-            "reverent"
+            "reverent",
+            "subservient",
+            "obeisance"
         ]
     },
     {
@@ -623,7 +770,9 @@
             "salutary",
             "instrumental",
             "efficacious",
-            "conducive"
+            "conducive",
+            "propitious",
+            "auspicious"
         ]
     },
     {
@@ -639,13 +788,18 @@
             "deleterious",
             "inimical",
             "detrimental",
-            "malign"
+            "malign",
+            "noxious",
+            "pernicious",
+            "insidious"
         ]
     },
     {
         "semantic": "敌意",
         "adj": [
-            "hostile"
+            "hostile",
+            "rancor",
+            "adversarial"
         ]
     },
     {
@@ -667,7 +821,8 @@
     {
         "semantic": "热情洋溢",
         "adj": [
-            "exuberant"
+            "exuberant",
+            "impassioned"
         ]
     },
     {
@@ -676,7 +831,9 @@
             "inert",
             "torpid",
             "torpor",
-            "indolent"
+            "indolent",
+            "sluggish",
+            "lethargy"
         ]
     },
     {
@@ -688,6 +845,9 @@
         ],
         "noun": [
             "approbation"
+        ],
+        "adj": [
+            "laudatory"
         ]
     },
     {
@@ -695,7 +855,8 @@
         "adj": [
             "reticent",
             "laconic",
-            "tacit"
+            "tacit",
+            "taciturn"
         ]
     },
     {
@@ -722,26 +883,42 @@
             "perfunctory",
             "cursory",
             "facile",
-            "imprudent"
+            "imprudent",
+            "sketchy"
         ]
     },
     {
-        "semantic": "喜爱",
+        "semantic": "喜爱;倾向",
         "noun": [
             "affinity",
             "predilection",
-            "penchant"
+            "penchant",
+            "proclivity",
+            "pent"
         ],
         "verb": [
             "enamor",
-            "captivate"
+            "captivate",
+            "relish",
+            "enchant",
+            "entrance",
+            "obsess",
+            "predispose"
         ]
     },
     {
         "semantic": "宣传;煽动",
         "verb": [
             "instigate",
-            "propagate"
+            "propagate",
+            "peddle",
+            "promulgate",
+            "agitate",
+            "foment"
+        ],
+        "adj": [
+            "seditious",
+            "incendiary"
         ]
     },
     {
@@ -764,14 +941,17 @@
         "adj": [
             "impartial",
             "probity",
-            "evenhanded"
+            "evenhanded",
+            "rectitude"
         ]
     },
     {
         "semantic": "难处理;棘手",
         "adj": [
             "intractable",
-            "obstinate"
+            "obstinate",
+            "pricky",
+            "thorny"
         ]
     },
     {
@@ -782,20 +962,29 @@
         ]
     },
     {
-        "semantic": "吹嘘;吹捧",
+        "semantic": "吹嘘;吹捧;吹牛",
         "noun": [
             "adulation",
-            "sycophant"
+            "sycophant",
+            "bombast",
+            "bragart",
+            "flattery"
         ],
         "verb": [
-            "tout"
+            "tout",
+            "fawn"
+        ],
+        "adj": [
+            "hagiographic",
+            "overblown"
         ]
     },
     {
         "semantic": "挑剔;吹毛求疵",
         "adj": [
             "fastidious",
-            "captious"
+            "captious",
+            "finicky"
         ]
     },
     {
@@ -818,9 +1007,14 @@
         ]
     },
     {
-        "semantic": "诋毁",
+        "semantic": "诋毁;污蔑;诽谤",
         "verb": [
-            "denigrate"
+            "denigrate",
+            "villify",
+            "calumniate"
+        ],
+        "noun": [
+            "aspersion"
         ]
     },
     {
@@ -846,7 +1040,9 @@
         "adj": [
             "trenchant",
             "acerbic",
-            "scathing"
+            "scathing",
+            "vitriolic",
+            "caustic"
         ],
         "noun": [
             "acrimony"
@@ -872,7 +1068,11 @@
             "alleviate",
             "mute",
             "mollify",
-            "assuage"
+            "assuage",
+            "quell",
+            "mitigate",
+            "palliate",
+            "solace"
         ]
     },
     {
@@ -882,15 +1082,10 @@
         ]
     },
     {
-        "semantic": "困惑",
-        "verb": [
-            "baffle"
-        ]
-    },
-    {
         "semantic": "恐惧",
         "adj": [
-            "chilling"
+            "chilling",
+            "aghast"
         ]
     },
     {
@@ -900,22 +1095,31 @@
         ]
     },
     {
-        "semantic": "痛苦",
+        "semantic": "痛苦;折磨",
         "adj": [
-            "bitter"
+            "bitter",
+            "poignant"
+        ],
+        "verb": [
+            "aggrieve"
+        ],
+        "noun": [
+            "ordeal"
         ]
     },
     {
-        "semantic": "喋喋不休",
+        "semantic": "喋喋不休;滔滔不绝",
         "adj": [
             "garrulous",
-            "loquacious"
+            "loquacious",
+            "voluble"
         ]
     },
     {
         "semantic": "勇敢",
         "adj": [
-            "intrepid"
+            "intrepid",
+            "valiant"
         ],
         "noun": [
             "prowess"
@@ -927,22 +1131,33 @@
             "squander"
         ],
         "adj": [
-            "extravagant"
+            "extravagant",
+            "prodigal"
         ]
     },
     {
-        "semantic": "残暴;爱争斗",
+        "semantic": "残暴;爱争斗;好斗",
         "adj": [
             "truculent",
             "pugnacious",
-            "berlligerent"
+            "berlligerent",
+            "petulant",
+            "bellicose",
+            "combative"
         ]
     },
     {
         "semantic": "混乱",
         "noun": [
             "turmoil",
+            "tumult",
             "muddle"
+        ],
+        "adj": [
+            "tumultuous"
+        ],
+        "verb": [
+            "fluster"
         ]
     },
     {
@@ -955,10 +1170,18 @@
         "semantic": "易怒;激怒",
         "verb": [
             "gall",
-            "irritate"
+            "irritate",
+            "incense",
+            "infuriate",
+            "aggravate",
+            "exasperate"
         ],
         "adj": [
-            "fractious"
+            "fractious",
+            "irascible"
+        ],
+        "noun": [
+            "umbrage"
         ]
     },
     {
@@ -968,16 +1191,256 @@
         ]
     },
     {
-        "semantic": "自满;自大",
+        "semantic": "自满;自大;傲慢",
         "adj": [
             "complacent",
-            "condescending"
+            "condescending",
+            "smug",
+            "insolent",
+            "pompous",
+            "supercilious",
+            "overbearing"
         ]
     },
     {
-        "semantic": "愚蠢",
+        "semantic": "愚蠢;笨拙;笨重",
         "adj": [
-            "obtuse"
+            "obtuse",
+            "ponderous",
+            "cumbersome",
+            "inept",
+            "unwieldy",
+            "bulky",
+            "fatuous"
         ]
+    },
+    {
+        "semantic": "贬低",
+        "adj": [
+            "pejorative"
+        ],
+        "verb": [
+            "debase",
+            "deprecate",
+            "detract",
+            "demean"
+        ]
+    },
+    {
+        "semantic": "清晰;容易理解",
+        "adj": [
+            "pellucid",
+            "comprehensible"
+        ]
+    },
+    {
+        "semantic": "简单;简洁",
+        "adj": [
+            "pithy",
+            "terse",
+            "consise"
+        ],
+        "noun": [
+            "brevity"
+        ]
+    },
+    {
+        "semantic": "暂停;中止",
+        "noun": [
+            "respite",
+            "abeyance"
+        ]
+    },
+    {
+        "semantic": "礼貌;温文尔雅",
+        "adj": [
+            "urbane",
+            "chivalrous",
+            "courteous",
+            "genteel"
+        ]
+    },
+    {
+        "semantic": "贪婪",
+        "adj": [
+            "voracious",
+            "rapacious",
+            "acquisitive",
+            "avid",
+            "avaricous",
+            "cupidity"
+        ]
+    },
+    {
+        "semantic": "迷惑;困惑",
+        "verb": [
+            "bewilder",
+            "befuddle",
+            "bemuse",
+            "baffle"
+        ]
+    },
+    {
+        "semantic": "严厉;残酷",
+        "adj": [
+            "draconian",
+            "dour",
+            "asperity"
+        ]
+    },
+    {
+        "semantic": "欺诈;骗子;诡计;奸诈",
+        "noun": [
+            "guile",
+            "impostor",
+            "charlatan",
+            "chicanery",
+            "hoax"
+        ],
+        "verb": [
+            "coax",
+            "lull",
+            "beguile",
+            "gouge"
+        ],
+        "adj": [
+            "fraudulent",
+            "duplicitous"
+        ]
+    },
+    {
+        "semantic": "不重要;微不足道",
+        "adj": [
+            "petty",
+            "trifling",
+            "nominal",
+            "paltry"
+        ]
+    },
+    {
+        "semantic": "禁止",
+        "verb": [
+            "proscribe"
+        ]
+    },
+    {
+        "semantic": "熟练;精通",
+        "adj": [
+            "proficient",
+            "deft",
+            "conversant",
+            "dexterous"
+        ]
+    },
+    {
+        "semantic": "无礼",
+        "adj": [
+            "terse",
+            "flippant",
+            "insolent",
+            "curt"
+        ]
+    },
+    {
+        "semantic": "脆弱;易碎",
+        "adj": [
+            "fragile",
+            "frail"
+        ]
+    },
+    {
+        "semantic": "节俭;节约",
+        "adj": [
+            "frugal"
+        ],
+        "noun": [
+            "economy"
+        ],
+        "verb": [
+            "husband"
+        ]
+    },
+    {
+        "semantic": "忧郁",
+        "adj": [
+            "gloomy",
+            "bleak"
+        ]
+    },
+    {
+        "semantic": "鲁莽;不理智",
+        "adj": [
+            "impertinent",
+            "impetuous",
+            "impolitic"
+        ]
+    },
+    {
+        "semantic": "刺耳",
+        "adj": [
+            "jarring"
+        ],
+        "noun": [
+            "cacophony"
+        ]
+    },
+    {
+        "semantic": "无知",
+        "adj": [
+            "benighted"
+        ],
+        "noun": [
+            "ignorance"
+        ]
+    },
+    {
+        "semantic": "粗鲁",
+        "adj": [
+            "churish",
+            "boorish"
+        ]
+    },
+    {
+        "semantic": "专横",
+        "adj": [
+            "despotic",
+            "imperious",
+            "authoritarian"
+        ],
+        "noun": [
+            "tyrant"
+        ]
+    },
+    {
+        "semantic": "臭名昭著;骇人听闻;罪恶昭彰",
+        "adj": [
+            "notorious",
+            "infamous",
+            "flagrant"
+        ]
+    },
+    {
+        "semantic": "无能;没用",
+        "adj": [
+            "impotent"
+        ]
+    },
+    {
+        "semantic": "悲伤;沮丧",
+        "adj": [
+            "lugubrious"
+        ],
+        "verb": [
+            "lament"
+        ]
+    },
+    {
+        "semantic": "驱逐"
+    },
+    {
+        "semantic": "鬼鬼祟祟"
+    },
+    {
+        "semantic": "豪华"
     }
 ]

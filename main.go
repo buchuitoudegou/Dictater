@@ -7,6 +7,7 @@ import (
 	"strings"
 
 	"github.com/buchuitoudegou/dictater/reader"
+	"github.com/spf13/cobra"
 )
 
 const defaultDictateCnt = 1
@@ -50,7 +51,26 @@ func DictateSemantic(v reader.Vocabulary) {
 	}
 }
 
+func NewDictateCommand() *cobra.Command {
+	cmd := &cobra.Command{
+		Short: "dictation",
+		RunE: func(cmd *cobra.Command, _ []string) error {
+			path, err := cmd.Flags().GetString("path")
+			if err != nil {
+				return err
+			}
+			v := reader.GetVocabulary(path)
+			DictateSemantic(v)
+			return nil
+		},
+	}
+	cmd.Flags().String("path", "vocabulary/gre/semantic.json", "setting vocabulary path")
+	return cmd
+}
+
 func main() {
-	v := reader.GetVocabulary("vocabulary/gre/semantic.json")
-	DictateSemantic(v)
+	rootCmd := NewDictateCommand()
+	args := os.Args[1:]
+	rootCmd.SetArgs(args)
+	rootCmd.Execute()
 }
